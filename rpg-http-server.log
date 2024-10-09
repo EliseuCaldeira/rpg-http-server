@@ -1,0 +1,27 @@
+2024-10-09 15:23:22 UTC/GMT +0100 DEBUG main.py(29)
+Logger iniciado
+
+2024-10-09 15:23:22 UTC/GMT +0100 INFO Service.py(42)
+_____________________________/!\ Serviço parado /!\_____________________________
+
+2024-10-09 15:24:45 UTC/GMT +0100 DEBUG main.py(29)
+Logger iniciado
+
+2024-10-09 15:24:45 UTC/GMT +0100 INFO Service.py(28)
+------------------------------= Serviço iniciado =------------------------------
+
+2024-10-09 15:24:45 UTC/GMT +0100 INFO Service.py(42)
+_____________________________/!\ Serviço parado /!\_____________________________
+
+2024-10-09 15:25:54 UTC/GMT +0100 DEBUG main.py(29)
+Logger iniciado
+
+2024-10-09 15:25:54 UTC/GMT +0100 INFO Service.py(29)
+------------------------------= Serviço iniciado =------------------------------
+
+2024-10-09 15:25:54 UTC/GMT +0100 INFO Service.py(39)
+O servidor HTTP está a usar a porta:8080
+
+2024-10-09 15:25:54 UTC/GMT +0100 INFO Service.py(43)
+_____________________________/!\ Serviço parado /!\_____________________________
+
