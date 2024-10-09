@@ -25,3 +25,39 @@ O servidor HTTP está a usar a porta:8080
 2024-10-09 15:25:54 UTC/GMT +0100 INFO Service.py(43)
 _____________________________/!\ Serviço parado /!\_____________________________
 
+2024-10-09 15:45:46 UTC/GMT +0100 INFO Service.py(32)
+------------------------------= Serviço iniciado =------------------------------
+
+2024-10-09 15:45:46 UTC/GMT +0100 DEBUG Service.py(36)
+Iniciou o thread principal
+
+2024-10-09 15:45:46 UTC/GMT +0100 INFO Service.py(44)
+O servidor HTTP está a usar a porta:8080
+
+2024-10-09 15:54:01 UTC/GMT +0100 INFO Service.py(32)
+------------------------------= Serviço iniciado =------------------------------
+
+2024-10-09 15:54:01 UTC/GMT +0100 DEBUG Service.py(36)
+Iniciou o thread principal
+
+2024-10-09 15:54:01 UTC/GMT +0100 INFO Service.py(44)
+O servidor HTTP está a usar a porta:8080
+
+2024-10-09 16:16:08 UTC/GMT +0100 INFO Service.py(32)
+------------------------------= Serviço iniciado =------------------------------
+
+2024-10-09 16:16:08 UTC/GMT +0100 DEBUG Service.py(36)
+Iniciou o thread principal
+
+2024-10-09 16:16:08 UTC/GMT +0100 INFO Service.py(44)
+O servidor HTTP está a usar a porta:8080
+
+2024-10-09 16:20:52 UTC/GMT +0100 INFO Service.py(32)
+------------------------------= Serviço iniciado =------------------------------
+
+2024-10-09 16:20:52 UTC/GMT +0100 DEBUG Service.py(36)
+Iniciou o thread principal
+
+2024-10-09 16:20:52 UTC/GMT +0100 INFO Service.py(44)
+O servidor HTTP está a usar a porta:8080
+

@@ -15,7 +15,7 @@ log_file = log_file_path
 my_handler = RotatingFileHandler(
     log_file,
     mode='a',
-    maxBytes=10*1024, # 10KB
+    maxBytes=1024*1024, # 1MB
     backupCount=3,
     encoding='utf-8',
     delay=False
@@ -26,7 +26,8 @@ app_log = logging.getLogger('root')
 app_log.setLevel(logging.DEBUG)
 app_log.addHandler(my_handler)
 # A partir de aqui já se pode utilizar o logger Ex.: app_log.debug("Mensagem")
-app_log.debug("Logger iniciado")
+#app_log.debug("Logger iniciado")
 
-service = Service()
-service.start()
+if __name__ == "__main__":
+    service = Service(8080)
+    service.start()

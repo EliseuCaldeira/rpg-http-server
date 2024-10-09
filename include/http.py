@@ -88,7 +88,7 @@ class WebRequestHandler(BaseHTTPRequestHandler):
                 content = file.read()
                 message = content
         else:
-            with open(f"./HTTP/{url}", "r") as file:
+            with open(f"./HTTP/{url}", "r", encoding="utf-8") as file:
                 content = file.read()
                 message = bytes(content, 'utf8')
 
